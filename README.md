@@ -23,3 +23,5 @@ Commands:
 Trigger `mlops_training_pipeline`. Run 1 deploys (no previous model). Run 2 has the same
 accuracy, so `skip_deployment` runs. To demo an improvement, lower `n_estimators` in the first run,
 then raise it.
+ 
+Testing the PR pipeline 
