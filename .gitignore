@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/
+data/processed/
+deployed/
+.pytest_cache/
